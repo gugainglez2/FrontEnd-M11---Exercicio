@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/action_store.png" alt="Thumbnail do Projeto" width="700">
+  <img src="./img/action_store.jpg" alt="Thumbnail do Projeto" width="700">
 </div>
 
 # 🛍️ Action Store
